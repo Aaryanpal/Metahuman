@@ -19,6 +19,8 @@
     box-shadow:#9c5c1c 2px 5px 5px;
 }
 body{
-    margin-top: -18px;
-    padding: 0;
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+  
 }
