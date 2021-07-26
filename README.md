@@ -4,13 +4,14 @@ In DC Comics' DC Universe, a metahuman is a human with superpowers. The term is 
 
 #### Usage
 
-Use [this](https://aryanpal0pqq.github.io/Metahuman/) repository to create tribute pages that is properly designed. 
+Use [this](https://github.com/Aaryanpal/Metahuman) repository to create tribute pages that is properly designed. 
 
-Clone [this](https://aryanpal0pqq.github.io/Metahuman/) repository and and edit `index.html` to get your own portfolio.
+Clone [this](https://github.com/Aaryanpal/Metahuman) repository and and edit `index.html` to get your own portfolio.
 
 ```bash
 
-git clone https://aryanpal0pqq.github.io/Metahuman/ 
+git clone https://github.com/Aaryanpal/Metahuman
+ 
 open index.html
 
 ```
@@ -20,9 +21,9 @@ open index.html
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
 
-- Front End- **HTML**,**CCss**
+- Front End- **HTML**,**CSS**
 
-**Glad to see you here! Show some love by [starring](https://aryanpal0pqq.github.io/Metahuman/) this repo.**
+**Glad to see you here! Show some love by [starring](https://github.com/Aaryanpal/Metahuman) this repo.**
 
 
 
